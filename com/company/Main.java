@@ -16,6 +16,10 @@ public class Main {
         System.out.println("Make first feature more interesting");
         System.out.println("I've made the first feature");
 
+        System.out.println("Try to do second feature");
+        System.out.println("Second feature must be done by 23 june");
+        System.out.println("Do second feature, please");
+
 
         second_feature a = new second_feature();
 
