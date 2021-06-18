@@ -17,6 +17,7 @@ public class Main {
         System.out.println("I've made the first feature");
 
         System.out.println("Try to do second feature");
+        System.out.println("Second feature must be done by 23 june");
 
 
     }
