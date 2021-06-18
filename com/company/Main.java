@@ -18,6 +18,8 @@ public class Main {
 
         second_feature a = new second_feature();
 
+        System.out.println("Going on do master project ,Amigo");
+
 
 
     }
