@@ -18,6 +18,8 @@ public class Main {
 
         System.out.println("Try to do second feature");
         System.out.println("Second feature must be done by 23 june");
+        System.out.println("Do second feature, please");
+
 
 
     }
