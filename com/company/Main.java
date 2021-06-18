@@ -16,6 +16,8 @@ public class Main {
         System.out.println("Make first feature more interesting");
         System.out.println("I've made the first feature");
 
+        second_feature a = new second_feature();
+
 
 
     }
