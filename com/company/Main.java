@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Wirst println");
+        System.out.println("First println");
+        System.out.println("In commit m v0.2");
     }
 }
