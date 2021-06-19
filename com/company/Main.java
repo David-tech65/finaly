@@ -43,6 +43,14 @@ public class Main {
         System.out.println("First step in fourth branch");
 
 
+        System.out.println("Second step in fourth branch");
+        System.out.println("Third  step in fourth branch");
+        System.out.println("Fourth step in fourth branch");
+
+
+
+
+
 
 
 
@@ -50,6 +58,7 @@ public class Main {
 
         System.out.println("Step 10 in master branch");
         System.out.println("Step 11 in master branch");
+
 
 
 
