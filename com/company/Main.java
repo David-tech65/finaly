@@ -31,6 +31,22 @@ public class Main {
 
         System.out.println("Try to do second feature");
 
+        System.out.println("Start do fourth branch");
+        System.out.println("Going on to do fourth branch");
+        System.out.println("Also doing fourth branch");
+        System.out.println("Finish do fourth branch\"");
+        System.out.println("REOPEN doing fourth branch\"");
+        System.out.println("REOPEN1 doing fourth branch\"");
+        System.out.println("REOPEN2 doing fourth branch\"");
+        System.out.println("Stop fourth branch\"");
+
+        System.out.println("First step in fourth branch");
+
+
+
+
+
+
 
         System.out.println("Step 10 in master branch");
         System.out.println("Step 11 in master branch");
